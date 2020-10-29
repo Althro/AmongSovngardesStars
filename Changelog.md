@@ -1,3 +1,18 @@
+## 0.5.3 : More Fixes + Updates
+
+**Released at**: `Unreleased`
+
+**Notes** : This update is mostly bugfixes that weren't caught in the previous update along with a few mod updates.
+
+**Updated** :
+- SKSE64
+- SKSE Scripts
+- .net Script Framework
+
+**Fixes** :
+- Revisited Series lighting issues.
+
+
 ## 0.5.2 : Bugfixes + Updates
 
 **Released at**: `27/10/2020`

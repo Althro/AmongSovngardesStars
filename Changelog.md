@@ -10,7 +10,7 @@
 - .net Script Framework
 
 **Fixes** :
-- Revisited Series lighting issues.
+- Remade the revisited series merge with fixed lighting.
 
 
 ## 0.5.2 : Bugfixes + Updates
